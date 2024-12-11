@@ -6,6 +6,7 @@ sidebar_position: 3
 
 **Online Platforms:**
 - [CryptoHack](https://cryptohack.org/)
+- [Crypto101](https://www.crypto101.io/)
 
 **Tools:**
 - [Cyberchef](https://gchq.github.io/CyberChef/)
