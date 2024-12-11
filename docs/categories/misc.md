@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Divers
 
+Une catégorie générale qui inclut des défis variés ou non classifiables, comme des énigmes, des puzzles ou des défis originaux.
+
 ## Defensive Security (Blue Team)
 
 **Other resources:**

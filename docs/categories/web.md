@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Exploitation du Web
 
+Trouver et exploiter des vulnérabilités sur des sites web (comme l'injection SQL, les failles XSS ou les RCE) pour accéder aux drapeaux cachés.
+
 **Online Platforms:**
 - [Portswigger's Web Security Academy](https://portswigger.net/web-security/all-labs)
 - [XSS Games](https://xss-game.appspot.com/)

@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Rétroingénierie logicielle
 
+Analyser des exécutables ou des binaires pour comprendre leur fonctionnement interne. Les participants doivent désassembler, décompiler et déchiffrer le code pour trouver le drapeau.
+
 **Online Platforms:**
 - [CrackMe](https://crackmes.one/)
 - [Challenges.re](https://challenges.re/)
