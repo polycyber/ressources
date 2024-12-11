@@ -103,7 +103,7 @@ const config: Config = {
             },
             {
               label: 'LinkedIn',
-              href: 'https://linkedin.com/in/polycyber',
+              href: 'https://linkedin.com/company/polycyber',
             },
           ],
         },
