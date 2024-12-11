@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Ressources',
-  tagline: 'Apprendre la cyber!',
+  tagline: 'Affûtez vos connaissances de la cyber!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -69,11 +69,10 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Menu',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/polycyber/docusaurus',
+          href: 'https://github.com/polycyber/ressources',
           label: 'GitHub',
           position: 'right',
         },
@@ -86,7 +85,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'À propos',
               to: '/docs/intro',
             },
           ],
@@ -95,16 +94,16 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Website',
+              href: 'https://polycyber.io',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/ZcYnS3GZE6',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'LinkedIn',
+              href: 'https://linkedin.com/in/polycyber',
             },
           ],
         },
@@ -113,11 +112,11 @@ const config: Config = {
           items: [
             {
               label: 'Blog',
-              to: '/blog',
+              href: 'https://polycyber.io/blog',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/polycyber/ressources',
+              href: 'https://github.com/polycyber/',
             },
           ],
         },
