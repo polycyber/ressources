@@ -14,7 +14,7 @@ Une catégorie générale qui inclut des défis variés ou non classifiables, co
 
 ## Hardware
 
-**Online Platforms:**
+**Online Platforms🎮:**
 - [MicroCorruption](https://microcorruption.com)
 
 **Youtube Channel:**
@@ -35,7 +35,7 @@ Une catégorie générale qui inclut des défis variés ou non classifiables, co
 
 ## OSINT
 
-**Online Platforms:**
+**Online Platforms🎮:**
 - [OZINT](https://ozint.eu/)
 
 **Other resources:**
@@ -44,7 +44,7 @@ Une catégorie générale qui inclut des défis variés ou non classifiables, co
 
 ## Blockchain
 
-**Online Platforms:**
+**Online Platforms🎮:**
 - [Capture the Ether](https://capturetheether.com/)
 - [ChainFlag](https://chainflag.org/)
 - [CryptoZombies](https://cryptozombies.io/)

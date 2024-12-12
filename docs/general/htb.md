@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Hack the Box
 
+Methodology for solving boxes on Hack the Box. 
+
 ## Initial Recon
 * Scan the ports with nmap
 * Use either telnet or netcat to grab the banners of ports

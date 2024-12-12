@@ -6,19 +6,19 @@ sidebar_position: 3
 
 Analyser des exécutables ou des binaires pour comprendre leur fonctionnement interne. Les participants doivent désassembler, décompiler et déchiffrer le code pour trouver le drapeau.
 
-**Online Platforms:**
+**Online Platforms🎮:**
 - [CrackMe](https://crackmes.one/)
 - [Challenges.re](https://challenges.re/)
 - [Root Me](https://www.root-me.org)
 
-**Github Repos:**
+**Github Repos:🐙**
 - [Github - wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering)
 - [Github - Hustcw/Angr_Tutorial_For_CTF](https://github.com/Hustcw/Angr_Tutorial_For_CTF)
 
-**CTF Competitions:**
+**CTF Competitions:🏁**
 - [Flare-On Challenge](https://flare-on.com/)
 
-**Tools:**
+**Tools:🧰**
 - [Dogbolt - Decompiler Explorer](https://dogbolt.org/)
 
 **Other resources:**

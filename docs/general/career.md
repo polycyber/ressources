@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Carrières en cyber
 
-*Dernière modification: 2023-11-12*
+Informations utiles pour bâtir une carrière en cyber.
 
 ## Découvrir les profils en cybersécurité
 

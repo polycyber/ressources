@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Blogs
 
+Blogs spécialisés en cybersécurité.
+
 - [PolyCyber's Blog](https://polycyber.io/blog)
 - [The Daily Swig](https://portswigger.net/daily-swig)
 - [Mozilla Hack](https://hacks.mozilla.org/)

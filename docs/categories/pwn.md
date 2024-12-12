@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Identifier et exploiter des failles dans des programmes binaires (comme les dépassements de tampon ou l'exploitation de pointeurs) pour obtenir un accès ou exécuter du code arbitraire.
 
-**Online Platforms:**
+**Online Platforms🎮:**
 - [pwnable.kr](https://pwnable.kr/)
 - [pwnable.tw](https://pwnable.tw/)
 - [pwn college](https://pwn.college/)
