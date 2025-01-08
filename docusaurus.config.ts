@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Ressources',
-  tagline: 'Affûtez vos connaissances de la cyber!',
+  tagline: 'Développez vos connaissances avec les ressources proposées par PolyCyber',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -85,7 +85,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'À propos',
+              label: 'Introduction',
               to: '/docs/intro',
             },
           ],
