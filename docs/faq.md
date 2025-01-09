@@ -1,5 +1,5 @@
 ---
-sidebar: 5
+sidebar_position: 5
 ---
 
 # FAQ

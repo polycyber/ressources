@@ -4,6 +4,10 @@ sidebar_position: 9
 
 # Contribuer
 
+Ce site Web a vocation à être collaboratif pour que des ressources soient régulièrement ajoutées et mises à jour.
+
+## Comment contribuer?
+
 1. Cloner ce [dépôt Github](https://github.com/polycyber/ressources)
 2. Créer une nouvelle branche
 3. Ajouter les ressources à la page désirée
