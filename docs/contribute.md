@@ -4,7 +4,11 @@ sidebar_position: 9
 
 # Contribuer
 
+:::info
+
 Ce site Web a vocation à être collaboratif pour que des ressources soient régulièrement ajoutées et mises à jour.
+
+:::
 
 ## Comment contribuer?
 

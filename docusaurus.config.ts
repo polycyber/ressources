@@ -58,7 +58,7 @@ const config: Config = {
   themeConfig: {
     image: 'img/polycyber.png',
     navbar: {
-      title: 'Ressources',
+      title: 'PolyCyber',
       logo: {
         alt: 'PolyCyber Logo',
         src: 'img/polycyber.png',
@@ -68,7 +68,14 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Menu',
+          label: 'Ressources',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'Blog',
+          href: 'https://polycyber.io/blog',
         },
         {
           href: 'https://github.com/polycyber/ressources',
@@ -81,7 +88,7 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Ressources',
           items: [
             {
               label: 'Introduction',
@@ -90,10 +97,10 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Communauté',
           items: [
             {
-              label: 'Website',
+              label: 'Site Web',
               href: 'https://polycyber.io',
             },
             {
@@ -107,7 +114,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Autres',
           items: [
             {
               label: 'Blog',
@@ -124,10 +131,10 @@ const config: Config = {
     },
     algolia: {
       // The application ID provided by Algolia
-      appId: process.env.APP_ID,
+      appId: "GZBB0QPDEP",
 
       // Public API key: it is safe to commit it
-      apiKey: process.env.API_KEY,
+      apiKey: "6eb4d78e9de05146d97c7d0c6c94b828",
 
       indexName: 'ressources-polycyber',
 
@@ -135,7 +142,7 @@ const config: Config = {
       contextualSearch: true,
 
       // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-      externalUrlRegex: 'ressources\\.polycyber\\.io',
+      externalUrlRegex: 'ressources.polycyber.io',
 
       // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
       replaceSearchResultPathname: {

@@ -2,38 +2,40 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# Les CTF
 
-Nous vous recommandons vivement d'explorer des plateformes d'apprentissage telles que [Try Hack Me](https://tryhackme.com/paths), [Hack the Box Academy](https://academy.hackthebox.com/) et [picoCTF](https://picoctf.org/) pour apprendre les bases. Ensuite, si vous souhaitez approfondir certains sujets spécifiques, voici quelques ressources pour vous aider.
-
-## *Capture the Flag*
-
-### **Qu'est-ce qu'un CTF en cybersécurité ?**
+## **Qu'est-ce qu'un CTF en cybersécurité ?**
 
 Un **CTF (Capture The Flag)** en cybersécurité est un **exercice pratique basé sur des défis** où les participants doivent résoudre des problèmes de sécurité pour "capturer" des "drapeaux" virtuels. Ces drapeaux sont généralement des morceaux de texte cachés que l'on découvre en exploitant des vulnérabilités, en effectuant de l'ingénierie inverse ou en analysant le trafic réseau.
 
----
+## **Qu'est-ce qu'un flag ?**
 
-### **Types de CTFs**
+Un flag est une chaîne de caractères spécifique qui sert de preuve pour valider la résolution d'un défi. Il suit généralement un format précis défini par les organisateurs du CTF, souvent sous forme : `CTF{texte_ou_hash}` ou `flag{texte_ou_hash}`. Par exemple, après avoir exploité une faille SQL dans une application web, vous pourriez trouver un flag comme : `CTF{SQL_1nj3ct10n_M4st3r_2024}`. La soumission de ce flag exact prouve que vous avez réussi le défi.
+
+## **Types de CTFs**
 1. **Style Jeopardy** : Les participants résolvent des défis individuels classés par catégories (cryptographie, ingénierie inverse, forensic, exploitation web, exploitation binaire, etc.). Chaque défi contient un drapeau à capturer.  
 2. **Attaque-Défense (Rouge vs Bleu)** : Les équipes doivent attaquer les systèmes des autres tout en défendant les leurs. Ce type de CTF simule des scénarios de cyberattaque du monde réel.  
 3. **Mixte** : Une combinaison des deux types ci-dessus, avec des défis de style Jeopardy et des éléments d'attaque-défense.
 
----
-
-### **Objectifs des CTFs**
+## **Objectifs des CTFs**
 - **Développement de compétences** : Pratiquer et améliorer des compétences techniques (hacking éthique, forensic, ingénierie inverse, etc.).  
 - **Expérience d'apprentissage** : Acquérir une expérience pratique des concepts de cybersécurité.  
 - **Collaboration en équipe** : Encourager le travail d'équipe et la résolution de problèmes dans des délais serrés.  
 - **Compétitions** : Souvent organisés lors de conférences (comme DEFCON) ou lors d'événements autonomes où les participants concourent pour des prix, de la reconnaissance ou des opportunités professionnelles.  
 
----
-
-### **Qui devrait essayer les CTFs ?**
+## **Qui devrait essayer les CTFs ?**
 - **Débutants** : Excellente manière d'apprendre et de mettre en pratique les concepts de sécurité.  
 - **Passionnés et étudiants en cybersécurité** : Pour affiner leurs compétences en hacking.  
 - **Professionnels** : Pour tester et améliorer leur expertise technique.  
 
-## Contribuez!
+## **Comment trouver des CTF auxquels participer ?**
 
-Ce site Web a vocation à être collaboratif. Visiter la page [contribuer](/docs/contribute) pour les détails.
+:::tip
+
+[CTF Time](https://ctftime.org) est la plateforme de référence dans le monde des CTF, servant à la fois de calendrier global des compétitions et de système de classement des équipes.
+
+:::
+
+- **PicoCTF:** PicoCTF est un CTF éducatif créé par Carnegie Mellon University, spécialement conçu pour les débutants et les étudiants.
+- **Hackfest (Québec):** L'un des plus grands événements de sécurité informatique au Canada, se déroulant annuellement à Québec.
+- **NorthSec (Montréal):** Plus grand CTF technique au Canada, organisé à Montréal, combinant conférence et compétition intensive.

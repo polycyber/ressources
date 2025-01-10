@@ -16,6 +16,12 @@ Une plateforme axée sur des machines virtuelles et des challenges pratiques ave
 | Excellent pour la préparation OSCP | Interface parfois complexe |
 | Solutions détaillées disponibles | Nécessite un bon niveau technique de base |
 
+:::info
+
+Hack the Box propose aussi son [Academy](https://academy.hackthebox.com), un environnement plus adapté aux apprentissages et permettant d'obtenir des certifications.
+
+:::
+
 ## TryHackMe (THM)
 
 Plateforme orientée apprentissage avec une approche plus pédagogique et guidée.

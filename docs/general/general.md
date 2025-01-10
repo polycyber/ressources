@@ -6,6 +6,23 @@ sidebar_position: 2
 
 Endroits vers lesquels se tourner pour apprendre davantage.
 
+## Blogs
+
+Blogs spécialisés en cybersécurité.
+
+- [PolyCyber's Blog](https://polycyber.io/blog)
+- [The Daily Swig](https://portswigger.net/daily-swig)
+- [Mozilla Hack](https://hacks.mozilla.org/)
+- [Google Project Zero](https://googleprojectzero.blogspot.com/)
+- [Detectify Blog](https://blog.detectify.com/)
+- [Github Security Blog](https://securitylab.github.com/)
+
+:::tip
+
+Retrouvez les publications de PolyCyber sur notre [blog](https://polycyber.io/blog)
+
+:::
+
 ## Community Events
 
 - [MontreHack](https://montrehack.ca/)
