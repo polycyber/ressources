@@ -1,0 +1,27 @@
+polycyber:
+  name: PolyCyber
+  description: "L'équipe exécutive de PolyCyber"
+  page: true 
+  url: https://github.com/polycyber
+  image_url: https://github.com/polycyber.png
+
+romain:
+  name: Romain
+  description: 'Membre de PolyCyber'
+  page: true
+  url: https://github.com/RomainL972
+  image_url: https://github.com/RomainL972.png
+
+1t1n1:
+  name: Étienne P.
+  description: 'Membre de PolyCyber'
+  page: true
+  url: https://github.com/1t1n1
+  image_url: https://github.com/1t1n1.png 
+
+ch0ufleur:
+  name: Jimmy
+  description: 'Membre de PolyCyber'
+  page: true 
+  url: https://github.com/ch0ufleur
+  image_url: https://github.com/ch0ufleur.png

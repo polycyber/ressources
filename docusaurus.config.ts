@@ -45,11 +45,17 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
         },
         blog: {
+          blogTitle: 'Blog de PolyCyber',
+          path: 'blog/',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
           },
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'Publications',
+          showLastUpdateAuthor: false,
+          showLastUpdateTime: true,
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -95,11 +101,9 @@ const config: Config = {
           label: 'Ressources',
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Blog',
-          href: 'https://polycyber.io/blog',
+          to: 'blog'
         },
         {
           href: 'https://github.com/polycyber/ressources',
