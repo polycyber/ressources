@@ -1,6 +1,6 @@
 ---
 slug: 2024-11-11-unitedctf-2024-by-romain
-title: UnitedCTF 2024 - "Pomme d'amour" par Romain
+title: UnitedCTF 2024 - "Pomme d'amour"
 date: 2024-11-11
 authors: [romain]
 tags: [reverse, unitedctf]

@@ -1,6 +1,6 @@
 ---
 slug: 2024-11-11-northsec-2024-by-romain
-title: Northsec CTF 2024 - "Appendix" par Romain
+title: Northsec CTF 2024 - "Appendix"
 date: 2024-11-11
 authors: [romain]
 tags: [web, nsec]

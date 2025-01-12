@@ -1,11 +1,12 @@
 ---
 slug: 2022-05-14-write-ups-24h-ctf-2022
-title: 24h@CTF 2022 - Participants' write-ups
+title: 24h@CTF 2022 Solutions
 date: 2022-05-01
 authors: [polycyber]
 tags: [solutions]
 ---
 
+Solutions des participants aux challenges du 24h@CTF organisé par PolyCyber.
 <!-- truncate -->
 # Web Challenges
 

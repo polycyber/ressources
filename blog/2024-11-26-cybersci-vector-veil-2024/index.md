@@ -1,13 +1,12 @@
 ---
 slug: 2024-11-26-cybersci-vector-veil-2024
-title: Cybersci 2024 - "Vector Veil" by 1t1n1
+title: Cybersci 2024 - "Vector Veil"
 date: 2024-11-26
 authors: 1t1n1
 draft: false
 tags: [cybersci, reverse]
 ---
 
-<!-- truncate -->
 The challenge I am presenting to you was part of the CyberSci Regionals 2024 edition and was the first in the Reverse Engineering track. Being an avid reverse engineering enthusiast myself, I didn't even look at the other challenges and immediately started with the one called "Vector Veil", unaware that I was embarking on a journey that would take up all the time I had at the competition...
 <!-- truncate -->
 

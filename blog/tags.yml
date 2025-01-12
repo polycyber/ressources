@@ -1,0 +1,35 @@
+solutions:
+  label: Solutions 
+  description: Solutions aux challenges des compétitions organisés par PolyCyber
+
+web:
+  label: Web 
+  description: Exploitation de vulnérabilités de sites Web
+
+pwn:
+   label: pwn
+   description: Exploitation de binaires et systèmes
+
+nsec:
+   label: NorthSec
+   description: Write-ups de la compétition NorthSec
+
+reverse:
+   label: Reverse
+   description: Rétro-ingénierie de binaires
+
+crypto:
+   label: Cryptographie
+   description: Challenges de cryptographie
+
+google-ctf:
+   label: Google CTF
+   description: Write-ups du Google CTF
+
+unitedctf:
+   label: UnitedCTF
+   description: Write-ups de l'UnitedCTF
+
+cybersci:
+   label: CyberSCI
+   description: Write-ups de la compétition CyberSCI

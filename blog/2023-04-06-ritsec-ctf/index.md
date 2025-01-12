@@ -1,6 +1,6 @@
 ---
 slug: 2023-04-06-ritsec-ctf
-title: RITSEC CTF Write-ups
+title: RITSEC CTF
 date: 2023-04-06
 authors: [polycyber]
 tags: [web, pwn]

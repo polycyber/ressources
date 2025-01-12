@@ -46,6 +46,7 @@ const config: Config = {
         },
         blog: {
           blogTitle: 'Blog de PolyCyber',
+          blogDescription: 'Retrouvez les publications techniques des membres de PolyCyber',
           path: 'blog/',
           showReadingTime: true,
           feedOptions: {
@@ -105,11 +106,6 @@ const config: Config = {
           label: 'Blog',
           to: 'blog'
         },
-        {
-          href: 'https://github.com/polycyber/ressources',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
@@ -144,10 +140,6 @@ const config: Config = {
         {
           title: 'Autres',
           items: [
-            {
-              label: 'Blog',
-              href: 'https://polycyber.io/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/polycyber/',

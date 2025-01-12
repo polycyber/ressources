@@ -7,14 +7,14 @@ polycyber:
 
 romain:
   name: Romain
-  description: 'Membre de PolyCyber'
+  description: 'Directeur du Service télématique des étudiant(e)s de Polytechnique (STEP)'
   page: true
   url: https://github.com/RomainL972
   image_url: https://github.com/RomainL972.png
 
 1t1n1:
   name: Étienne P.
-  description: 'Membre de PolyCyber'
+  description: 'Président de PolyCyber 2023-2024'
   page: true
   url: https://github.com/1t1n1
   image_url: https://github.com/1t1n1.png 

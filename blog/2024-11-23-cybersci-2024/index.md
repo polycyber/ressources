@@ -1,6 +1,6 @@
 ---
 slug: 2024-11-23-cybersci-2024
-title: Cybersci 2024 - "Parts" par Romain
+title: Cybersci 2024 - "Parts"
 date: 2024-11-23
 authors: [romain]
 tags: [cybersci, crypto]

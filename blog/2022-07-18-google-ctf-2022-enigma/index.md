@@ -5,7 +5,8 @@ date: 2022-07-18
 authors: [romain]
 tags: [crypto, google-ctf]
 ---
-> This write-up, authored by one of our teammates [@RomainL972](https://github.com/RomainL972), won the [Google CTF 2022 Write-up Comptition](https://groups.google.com/g/google-ctf/c/BQG1LP8vuZ4). Congrats, [Romain]! 🎉
+
+This write-up, authored by one of our teammates [@RomainL972](https://github.com/RomainL972), won the [Google CTF 2022 Write-up Comptition](https://groups.google.com/g/google-ctf/c/BQG1LP8vuZ4). Congrats, [Romain]! 🎉
 
 <!-- truncate -->
 Hi, and welcome to this writeup for the [crypto Enigma challenge](https://capturetheflag.withgoogle.com/challenges/crypto-enigma).

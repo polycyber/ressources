@@ -1,6 +1,6 @@
 ---
 slug: 2022-09-01-maple-ctf-2022-maplewave-0
-title: Maple CTF 2022 - Maplewave-0 (Reverse Engineering)
+title: Maple CTF 2022 - Maplewave-0
 date: 2022-09-01
 authors: [ch0ufleur, 1t1n1]
 tags: [reverse]

@@ -1,6 +1,6 @@
 ---
 slug: 2023-06-01-nsec-write-ups
-title: NorthSec 2023 - Write-ups
+title: NorthSec 2023
 date: 2023-06-01
 authors: [polycyber]
 tags: [pwn, nsec]

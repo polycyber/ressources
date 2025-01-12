@@ -3,7 +3,7 @@ slug: 2022-06-01-nsec-write-ups
 title: NorthSec 2022 - Write-ups
 date: 2022-06-01
 authors: [polycyber]
-tags: [web, pwn, csec]
+tags: [web, pwn, nsec]
 ---
 
 **NorthSec** is one of the largest cybersecurity event in Canada that take place yearly in Montreal. 
