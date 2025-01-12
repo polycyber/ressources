@@ -10,29 +10,41 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Hacker Night',
-    Svg: require('@site/static/img/polycyber.png').default,
+    title: 'Advens',
+    Svg: require('@site/static/img/logo_advens.png').default,
     description: (
       <>
-        Chaque semaine, nos membres se réunissent pour échanger leurs connaissances.
+        Advens est un leader français, indépendant et souverain en matière de Cybersécurité. Il est présent partout en France, ainsi qu'au Québec et en Europe. Sa mission est de protéger 24 heures sur 24, 365 jours par an, des organisations publiques et privées. Cette mission guide et anime Advens au quotidien. Mais ce n'est pas tout. Sa performance financière lui permet de soutenir et d'accélérer des projets à impact, au travers du fond de dotation « Advens for People And Planet ». Vous l'aurez compris, plus que des expert(e)s de la cyber, Advens recherche des collaborateurs et collaboratrices engagé(e)s et passionné(e)s.      
       </>
     ),
   },
   {
-    title: 'PolyPwn CTF 2025',
-    Svg: require('@site/static/img/logo-polypwn-text.png').default,
+    title: 'Banque Nationale',
+    Svg: require('@site/static/img/logo_bnc.webp').default,
     description: (
       <>
-        PolyCyber organise son CTF annuel en mars 2025. Plus de 200 participants sont attendus.
+        Partenaire depuis plusieurs années, la Banque Nationale est un des meilleurs employeurs du Canada, proposant un environnement dynamique. Et la cybersécurité dans une banque,  c’est essentiel ! C’est pourquoi la BNC recrute énormément dans le domaine de la cyber allant du pentest à la cyberdéfense en passant par la gouvernance.
       </>
     ),
   },
   {
-    title: 'Participation CTF',
-    Svg: require('@site/static/img/polycyber.png').default,
+    title: 'CyberEco',
+    Svg: require('@site/static/img/logo_cybereco.png').default,
     description: (
       <>
-        Régulièrement, notre équipe CTF participe à des compétitions CTF.
+                    Fondé en 2018, Cybereco regroupe un nombre grandissant de membres, dont des chefs de
+                    file du secteur des affaires et de l’enseignement supérieur au Québec et au Canada, réunis dans le
+                    but d’accélérer le développement d’une main-d’œuvre de calibre mondial et de solutions
+                    technologiques efficaces pour une économie prospère et sécuritaire. Nous organisons chaque année une
+                    compétition CTF avec eux !      </>
+    ),
+  },
+  {
+    title: 'IMC2',
+    Svg: require('@site/static/img/logo_imc2.webp').default,
+    description: (
+      <>
+        L’Institut Multidisciplinaire en Cybersécurité et Cyberrésilience repose sur un partenariat entre Polytechnique Montréal, initiateur du projet, l’Université de Montréal et HEC Montréal.
       </>
     ),
   },

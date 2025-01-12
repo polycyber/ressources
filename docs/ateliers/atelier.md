@@ -1,10 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # Diapositives
 
-Le contenu que nous avons présenté lors de nos séances est présenté ici. Merci aux présentateurs de les avoir rendus disponibles!
+Le contenu que nous avons présenté lors de nos séances est présenté ici. 
 
 | Nom de l'atelier | Description | Diapositives |
 |-----------------|-------------|--------------|
@@ -20,3 +20,9 @@ Le contenu que nous avons présenté lors de nos séances est présenté ici. Me
 | Investigation Numérique Réseau | Introduction à l'analyse forensique réseau | [forensics_reseau.pdf](https://github.com/polycyber/workshops/blob/main/forensics_reseau.pdf) |
 | Injection dans les APK Android | Techniques pour analyser et modifier les applications Android | [injection_dans_un_apk_android.pdf](https://github.com/polycyber/workshops/blob/main/injection_dans_un_apk_android.pdf) |
 | Introduction au Reverse Engineering | Introduction aux concepts et outils de rétro-ingénierie logicielle | [intro_au_reverse_engineering.pdf](https://github.com/polycyber/workshops/blob/main/intro_au_reverse_engineering.pdf) |
+
+:::info
+
+Merci aux présentateurs et aux présentatrices de les avoir rendus disponibles! ❤️‍🔥
+
+:::

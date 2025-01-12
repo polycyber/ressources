@@ -58,4 +58,17 @@ Plateforme spécialisée dans la sécurité des applications web, créée par le
 | Gratuit et complet | Nécessite Burp Suite |
 | Mis à jour régulièrement | Peut être technique pour débutants |
 
-Chaque plateforme a ses points forts et peut être complémentaire des autres. Pour un débutant, je recommanderais de commencer par TryHackMe, puis d'évoluer vers Hack The Box une fois les bases acquises. Root-Me est excellent pour pratiquer en français, tandis que la Web Security Academy est incontournable pour se spécialiser dans la sécurité web.
+## Vulnerable by Design
+
+Les challenges *Vulnerable by design* sont des applications intentionnellement conçues avec des vulnérabilités à des fins pédagogiques. Comme OWASP Juice Shop ou DVWA, ces plateformes open source permettent aux apprenants d'explorer des failles de sécurité dans un environnement contrôlé. 
+
+Leur code source accessible offre une double perspective : exploiter les vulnérabilités et comprendre leur implémentation technique. Ces applications peuvent être facilement déployées localement ou dans le cloud, offrant ainsi un terrain d'entraînement personnalisé pour pratiquer la sécurité applicative à son rythme.
+
+En voici quelques exemples:
+
+* [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) : Environnement Kubernetes vulnérable pour apprendre la sécurité des conteneurs et clusters
+* [TerraformGoat](https://github.com/HXSecurity/TerraformGoat) : Infrastructure as Code vulnérable pour pratiquer la sécurité cloud et Terraform
+* [SKF Flask](https://github.com/blabla1337/skf-flask) : Application Python Flask vulnérable avec tutoriels sur les failles web modernes
+* [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) : Application e-commerce moderne en NodeJS avec plus de 100 challenges de sécurité
+* [iGoat Swift](https://github.com/OWASP/iGoat-Swift) : Application iOS vulnérable pour apprendre la sécurité mobile sur Swift
+* [OWASP WrongSecrets](https://github.com/OWASP/wrongsecrets): Vulnerable app with examples showing how to not use secrets

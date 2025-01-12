@@ -5,6 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
+  plugins: [require.resolve("docusaurus-plugin-image-zoom")],
   title: 'Ressources',
   tagline: 'Développez vos connaissances avec les ressources proposées par PolyCyber',
   favicon: 'img/favicon.ico',
@@ -35,6 +36,11 @@ const config: Config = {
     [
       'classic',
       {
+        pages: {
+          editUrl: 'https://gitlab.com/polycyber/ressources/-/edit/main/',
+          showLastUpdateAuthor: false,
+          showLastUpdateTime: true
+        },
         docs: {
           sidebarPath: './sidebars.ts',
         },
@@ -56,6 +62,23 @@ const config: Config = {
     ],
   ],
   themeConfig: {
+    algolia: {
+      // The application ID provided by Algolia
+      appId: 'GZBB0QPDEP',
+      // Public API key: it is safe to commit it
+      apiKey: '6eb4d78e9de05146d97c7d0c6c94b828',
+      indexName: 'ressources-polycyber',
+    },
+    zoom: {
+      selector: '.markdown :not(em) > img',
+      config: {
+        // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+        background: {
+          light: 'rgb(255, 255, 255)',
+          dark: 'rgb(50, 50, 50)'
+        }
+      }
+    },
     image: 'img/polycyber.png',
     navbar: {
       title: 'PolyCyber',
@@ -100,7 +123,7 @@ const config: Config = {
           title: 'Communauté',
           items: [
             {
-              label: 'Site Web',
+              label: 'PolyCyber',
               href: 'https://polycyber.io',
             },
             {
@@ -127,43 +150,16 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} PolyCyber, Inc. Built with Docusaurus.`,
-    },
-    algolia: {
-      // The application ID provided by Algolia
-      appId: "GZBB0QPDEP",
-
-      // Public API key: it is safe to commit it
-      apiKey: "6eb4d78e9de05146d97c7d0c6c94b828",
-
-      indexName: 'ressources-polycyber',
-
-      // Optional: see doc section below
-      contextualSearch: true,
-
-      // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-      externalUrlRegex: 'ressources.polycyber.io',
-
-      // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-      replaceSearchResultPathname: {
-        from: '/docs/', // or as RegExp: /\/docs\//
-        to: '/',
-      },
-
-      // Optional: Algolia search parameters
-      searchParameters: {},
-
-      // Optional: path for search page that enabled by default (`false` to disable it)
-      searchPagePath: 'search',
-
-      // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
-      insights: false,
-
-      //... other Algolia params
+      copyright: `Tous droits réservés © ${new Date().getFullYear()} PolyCyber. Conçu avec Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    announcementBar: {
+      content: 'Ce site web évolue encore. Vous pouvez y contribuer sur Github!',
+      backgroundColor: '#ffb72c',
+      isCloseable: true,
     },
   } satisfies Preset.ThemeConfig,
 };

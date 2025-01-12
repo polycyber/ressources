@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
-# Général
+# S'informer
 
 Endroits vers lesquels se tourner pour apprendre davantage.
 
@@ -23,11 +23,18 @@ Retrouvez les publications de PolyCyber sur notre [blog](https://polycyber.io/bl
 
 :::
 
-## Community Events
+## Événements
+
+:::tip
+
+[InfoSecMap](https://infosecmap.com) vous aide à trouver les communautés et les événements près de chez vous.
+
+:::
 
 - [MontreHack](https://montrehack.ca/)
 - [Hack the Box Community Meetups](https://www.meetup.com/find/?keywords=hack%20the%20box)
 - [OWASP Events](https://owasp.org/events/)
+- [DEFCON Red Team Village](https://redteamvillage.io/)
 
 ## Podcasts
 
@@ -39,19 +46,12 @@ Retrouvez les publications de PolyCyber sur notre [blog](https://polycyber.io/bl
 - [Security Now](https://twit.tv/shows/security-now)
 - [The Defender's Advantage](https://podcasts.apple.com/us/podcast/the-defenders-advantage-podcast/id1073779629)
 
-## Trainings
+## Formations en ligne
 
 - [Bug Crowd's Level Up](https://www.bugcrowd.com/resources/levelup/)
-- [H@ckivitycon](https://www.hackerone.com/hacktivitycon)
-- [DEFCON's Red Team Village](https://redteamvillage.io/)
 - [Hacker101](https://www.hacker101.com/)
 - [Cybrary](https://www.cybrary.it/)
 - [Bug Crowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
-
-## Youtube Channels
-
-- [Great list of Infosec Youtubers](https://securitycreators.video/)
-- [Ippsec - Hack the box walkthrough videos](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 
 ## Magazines
 
@@ -63,8 +63,3 @@ Retrouvez les publications de PolyCyber sur notre [blog](https://polycyber.io/bl
 - [r/cybersecurity](https://www.reddit.com/r/cybersecurity/)
 - [r/securityCTF](https://www.reddit.com/r/securityCTF/)
 - [r/AskNetSec](https://www.reddit.com/r/AskNetSec/)
-
-## Github Repos
-
-- [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
-- [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
