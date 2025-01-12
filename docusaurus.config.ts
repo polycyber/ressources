@@ -66,8 +66,9 @@ const config: Config = {
       // The application ID provided by Algolia
       appId: 'GZBB0QPDEP',
       // Public API key: it is safe to commit it
-      apiKey: '6eb4d78e9de05146d97c7d0c6c94b828',
+      apiKey: '2d0bec01987c9ba894c3a77f49f42295',
       indexName: 'ressources-polycyber',
+      contextualSearch: false
     },
     zoom: {
       selector: '.markdown :not(em) > img',
