@@ -34,11 +34,11 @@ const config: Config = {
 
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       {
         pages: {
-          editUrl: 'https://gitlab.com/polycyber/ressources/-/edit/main/',
-          showLastUpdateAuthor: false,
+          editUrl: 'https://gitlab.com/polycyber/ressources/edit/main/',
+          showLastUpdateAuthor: true,
           showLastUpdateTime: true
         },
         docs: {

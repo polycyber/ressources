@@ -4,6 +4,10 @@ sidebar_position: 5
 
 # FAQ
 
+## Comment faire pour commencer à apprendre la cyber ?
+
+Lis notre [article](/docs/intro/getting-started.md) sur le cheminement pour des conseils sur les façons dont tu peux t'y prendre.
+
 ## Qui peut contribuer à ce projet ?
 
 Nous accueillons les contributions de toute personne, qu'elle soit externe ou interne à notre communauté! Il suffit d'ajouter vos modifications aux fichiers Markdown et le soumettre pour validation par l'équipe de PolyCyber. 
@@ -16,9 +20,4 @@ Cette base de connaissances a vocation à être collaboratif pour que des ressou
 
 ## Comment contribuer à ce projet ? 
 
-1. Cloner ce [dépôt Github](https://github.com/polycyber/ressources)
-2. Créer une nouvelle branche
-3. Ajouter les ressources à la page désirée
-4. Commiter vos changements 
-5. Ouvrir un [PR](https://github.com/polycyber/ressources/pulls) 
-6. Enjoy!
+Chaque page présente un bouton d'édition de la page. Il suffit de se connecter à Github pour proposer des modifications.

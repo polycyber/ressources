@@ -6,12 +6,14 @@ sidebar_position: 1
 
 Trouver et exploiter des vulnérabilités sur des sites web (comme l'injection SQL, les failles XSS ou les RCE) pour accéder aux drapeaux cachés.
 
-- [XSS Games](https://xss-game.appspot.com/)
-- [Security Knowledge Framework (SKF) Python Flask / Angular project](https://github.com/blabla1337/skf-flask)
-- [WebGoat is a deliberately insecure application](https://github.com/WebGoat/WebGoat)
-- [OWASP Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/)
-- [OWASP Top Ten Web Application Security Risks](https://owasp.org/www-project-top-ten/)
-- [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
+| Nom | Description | Niveau |
+|-----|-------------|---------|
+| [XSS Games](https://xss-game.appspot.com/) | Série d'exercices interactifs pour apprendre et pratiquer les techniques d'attaque XSS (Cross-Site Scripting) | 🟢 Débutant |
+| [SKF Flask](https://github.com/blabla1337/skf-flask) | Application web Python/Angular démontrant l'implémentation de bonnes pratiques de sécurité, avec des exemples de vulnérabilités | 🟡 Intermédiaire |
+| [WebGoat](https://github.com/WebGoat/WebGoat) | Application web Java volontairement vulnérable pour apprendre la sécurité applicative de manière pratique | 🟢 Débutant |
+| [OWASP VWAD](https://owasp.org/www-project-vulnerable-web-applications-directory/) | Répertoire d'applications web vulnérables pour l'apprentissage de la sécurité | 🟢 Débutant |
+| [OWASP Top 10](https://owasp.org/www-project-top-ten/) | Guide de référence des 10 risques de sécurité les plus critiques pour les applications web | 🟢 Débutant |
+| [Damn Vulnerable GraphQL](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) | Application GraphQL intentionnellement vulnérable pour apprendre la sécurité des API GraphQL | 🟡 Intermédiaire |
 
 :::tip
 

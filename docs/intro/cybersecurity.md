@@ -30,6 +30,9 @@ La cybersécurité, ou parfois *InfoSec*, est l'ensemble des pratiques, technolo
 | CVE | Common Vulnerabilities and Exposures | Référence standard des vulnérabilités connues |
 | OSINT | Open Source Intelligence | Renseignement basé sur des sources ouvertes |
 | AITM | Attacker in the Middle | Attaque par interception |
+| SOC | Security Operations Center | Centre opérationnel de sécurité chargé de la surveillance et de la réponse aux incidents |
+| CTF | Capture The Flag | Compétition de sécurité informatique où les participants résolvent des challenges |
+| CIA | Confidentiality, Integrity, Availability | Les trois piliers fondamentaux de la sécurité de l'information |
 
 ## Ce projet
 
