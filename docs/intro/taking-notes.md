@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 ---
-# Prendre des notes
+# Prise de notes
 
 La prise de notes est essentielle en CTF pour documenter vos découvertes, techniques et méthodologies. Une bonne organisation vous permettra de constituer votre propre base de connaissances réutilisable.
 

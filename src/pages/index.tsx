@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/introduction">
+            to="/docs/intro">
             Let's Go!
           </Link>
         </div>
@@ -35,12 +35,6 @@ export default function Home(): JSX.Element {
       title={`${siteConfig.title}`}
       description="Ressources proposées par PolyCyber">
       <HomepageHeader />
-      <div className={clsx('container hero--primary', styles.heroBanner)}>
-        <Heading as="h2">
-            Nos commanditaires
-          </Heading>
-        <p className="hero__subtitle">Nos activités sont réalisables grâce à leur généreux financier!</p>
-      </div>
       <main>
         <HomepageFeatures />
       </main>

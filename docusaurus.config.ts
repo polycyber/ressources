@@ -37,7 +37,7 @@ const config: Config = {
       '@docusaurus/preset-classic',
       {
         pages: {
-          editUrl: 'https://gitlab.com/polycyber/ressources/edit/main/',
+          editUrl: 'https://github.com/polycyber/ressources/edit/main/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true
         },
@@ -48,6 +48,7 @@ const config: Config = {
           blogTitle: 'Blog de PolyCyber',
           blogDescription: 'Retrouvez les publications techniques des membres de PolyCyber',
           path: 'blog/',
+          editUrl: 'https://github.com/polycyber/ressources/edit/main/',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -106,6 +107,11 @@ const config: Config = {
           label: 'Blog',
           to: 'blog'
         },
+        {
+          position: 'right',
+          label: 'Commanditaires',
+          to: 'sponsors'
+        },
       ],
     },
     footer: {
@@ -116,7 +122,7 @@ const config: Config = {
           items: [
             {
               label: 'Introduction',
-              to: '/docs/category/introduction',
+              to: '/docs/intro',
             },
             {
               label: 'CTF',
@@ -161,8 +167,12 @@ const config: Config = {
           title: 'Autres',
           items: [
             {
-              label: 'PolyCyber',
+              label: 'polycyber.io',
               href: 'https://polycyber.io',
+            },
+            {
+              label: 'PolyPwn CTF',
+              href: 'https://pwn.polycyber.io',
             },
             {
               label: 'GitHub',
