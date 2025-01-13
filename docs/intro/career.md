@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 10
 ---
 
 # Carrières en cyber
@@ -41,6 +41,20 @@ Il peut être pratique d'avoir une liste de questions techniques pour préparer 
 ## Ton premier stage
 
 Commencer son tout premier stage en cybersécurité peut être excitant mais aussi angoissant. [Cette publication](https://www.reddit.com/r/cybersecurity/comments/ukrawc/starting_first_internship_next_month/) Reddit propose quelques conseils pour t'y préparer.
+
+## Entrepreneuriat en Cybersécurité avec Propolys
+
+La cybersécurité est un secteur en constante évolution où l'innovation entrepreneuriale joue un rôle crucial. [Propolys](https://www.polymtl.ca/propolys/), l'incubateur technologique de Polytechnique Montréal, offre un programme spécialisé pour accompagner les entrepreneurs qui développent des solutions en cybersécurité.
+
+### Programme d'incubation
+
+L'incubateur propose un accompagnement intensif de 6 mois destiné aux porteurs de projets innovants en cybersécurité. Chaque cohorte, composée de 6 à 8 projets sélectionnés, bénéficie d'un encadrement complet combinant expertise technique et conseils en développement d'entreprise.
+
+### Écosystème et opportunités
+
+Les participants ont accès à l'expertise de Polytechnique Montréal et de son réseau, créant des opportunités uniques de collaboration et de développement. L'accent est mis sur la protection des économies numériques et des sociétés connectées, répondant ainsi aux enjeux actuels de cybersécurité.
+
+Cette initiative illustre l'importance croissante de l'innovation entrepreneuriale dans le domaine de la cybersécurité au Québec et le rôle clé des institutions académiques dans son développement.
 
 ## Articles inspirants
 

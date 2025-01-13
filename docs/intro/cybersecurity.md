@@ -33,11 +33,3 @@ La cybersécurité, ou parfois *InfoSec*, est l'ensemble des pratiques, technolo
 | SOC | Security Operations Center | Centre opérationnel de sécurité chargé de la surveillance et de la réponse aux incidents |
 | CTF | Capture The Flag | Compétition de sécurité informatique où les participants résolvent des challenges |
 | CIA | Confidentiality, Integrity, Availability | Les trois piliers fondamentaux de la sécurité de l'information |
-
-## Ce projet
-
-Cette base de connaissance est une initiative de PolyCyber, société technique de Polytechnique Montréal dédiée à la cybersécurité. Ce projet a pour but de:
-
-* Faciliter le partage de ressources au sein de notre communauté
-* Aiguiller les néophytes de la cybersécurité
-* Offrir des guides techniques détaillés

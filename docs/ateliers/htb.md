@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Hack the Box
+# Hack The Box (HTB)
 
-Méthodologie pour résoudre les boxes sur Hack the Box
+Méthodologie pour résoudre les machines sur Hack the Box
 
 ## Reconnaissance initiale
 * Scanner les ports avec nmap

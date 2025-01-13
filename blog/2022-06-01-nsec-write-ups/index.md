@@ -1,6 +1,6 @@
 ---
 slug: 2022-06-01-nsec-write-ups
-title: NorthSec 2022 - Write-ups
+title: NorthSec 2022
 date: 2022-06-01
 authors: [polycyber]
 tags: [web, pwn, nsec]

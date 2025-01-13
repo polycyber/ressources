@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Divers
+# Autres catégories
 
 Une catégorie générale qui inclut des défis variés ou non classifiables, comme des énigmes, des puzzles ou des défis originaux.
 

@@ -118,15 +118,27 @@ const config: Config = {
               label: 'Introduction',
               to: '/docs/category/introduction',
             },
+            {
+              label: 'CTF',
+              to: '/docs/ctf',
+            },
+            {
+              label: 'Ateliers',
+              to: '/docs/category/ateliers',
+            },
+            {
+              label: 'Guides',
+              to: '/docs/category/guides',
+            },
+            {
+              label: 'Blog',
+              to: '/blog',
+            },
           ],
         },
         {
-          title: 'Communauté',
+          title: 'Réseaux sociaux',
           items: [
-            {
-              label: 'PolyCyber',
-              href: 'https://polycyber.io',
-            },
             {
               label: 'Discord',
               href: 'https://discord.gg/ZcYnS3GZE6',
@@ -135,11 +147,23 @@ const config: Config = {
               label: 'LinkedIn',
               href: 'https://linkedin.com/company/polycyber',
             },
+            {
+              label: 'Instagram',
+              href: 'https://www.instagram.com/polycyber_polymtl/',
+            },
+            {
+              label: 'Youtube',
+              href: 'https://www.youtube.com/@polycyber/',
+            }
           ],
         },
         {
           title: 'Autres',
           items: [
+            {
+              label: 'PolyCyber',
+              href: 'https://polycyber.io',
+            },
             {
               label: 'GitHub',
               href: 'https://github.com/polycyber/',

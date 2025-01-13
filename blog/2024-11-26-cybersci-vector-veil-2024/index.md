@@ -1,6 +1,6 @@
 ---
 slug: 2024-11-26-cybersci-vector-veil-2024
-title: Cybersci 2024 - "Vector Veil"
+title: Cybersci 2024 - Vector Veil
 date: 2024-11-26
 authors: 1t1n1
 draft: false

@@ -1,6 +1,6 @@
 ---
 slug: 2022-07-18-google-ctf-2022-enigma
-title: Google CTF 2022 - Enigma (Crypto)
+title: Google CTF 2022 - Enigma
 date: 2022-07-18
 authors: [romain]
 tags: [crypto, google-ctf]
