@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   plugins: [require.resolve("docusaurus-plugin-image-zoom")],
   title: 'Ressources',
-  tagline: 'Développez vos connaissances avec les ressources proposées par PolyCyber',
+  tagline: 'Développez vos connaissances en cybersécurité avec les ressources proposées par PolyCyber',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
