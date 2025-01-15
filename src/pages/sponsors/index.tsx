@@ -70,10 +70,14 @@ export default function Sponsors(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      title={'Commanditaires'}
       description="Ressources proposées par PolyCyber">
       <main>
-        <div className='container'>
+        <div className={clsx('container')}>
+        <Heading as="h1" className="hero__title">
+          Commanditaires
+        </Heading>
+        <p className="hero__subtitle">Nos activités sont réalisables grâce à leur généreux soutien financier</p>
         <section className={styles.features}>
         <div className="container">
           <div className="row">

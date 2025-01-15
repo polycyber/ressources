@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/polycyber.png').default,
     description: (
       <>
-        Chaque semaine, nos membres se réunissent pour échanger leurs connaissances.
+        Chaque semaine, nos membres se réunissent pour résoudre des défis et échanger leurs connaissances.
       </>
     ),
   },
