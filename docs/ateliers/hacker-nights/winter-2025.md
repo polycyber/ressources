@@ -2,11 +2,7 @@
 sidebar_position: 3
 ---
 
-# Hacker Nights
-
-Les *Hacker Nights* sont des soirées hebdomadaires dédiées à la collaboration entre les membres de PolyCyber pour s'exercer à résoudre des challenges CTF. Ces soirées sont ouvertes à tout le monde. Toute l'information se trouve sur notre serveur Discord.
-
-## Exercices proposés
+# Hiver 2025
 
 Les exercices proposés sont listés ci-dessous.
 

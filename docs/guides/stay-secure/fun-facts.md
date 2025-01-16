@@ -1,10 +1,21 @@
 ---
-sidebar_position: 5
+sidebar_position: 3
 ---
 
 # Le saviez-vous?
 
 Le numérique regorge de capacités insoupçonnées pour collecter et analyser nos données. Découvrez des faits surprenants sur la façon dont nos appareils et applications peuvent révéler des aspects inattendus de notre vie privée.
+
+<details>
+<summary>🔍 Saviez-vous que vos recherches dressent votre portrait psychologique ?</summary>
+
+Les moteurs de recherche conservent l'historique de toutes vos requêtes pour créer votre profil psychologique détaillé. Vos questions, vos doutes, vos intérêts les plus intimes : tout est analysé pour prédire votre personnalité, votre état d'esprit et même vos problèmes de santé. 
+
+Cette pratique s'étend maintenant aux chatbots et aux modèles d'intelligence artificielle, qui peuvent analyser vos conversations pour comprendre vos opinions, vos biais et vos vulnérabilités. Un chercheur peut déduire votre profil politique, votre niveau d'anxiété ou vos problèmes personnels simplement en analysant la façon dont vous formulez vos questions.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0191886917307328)
+
+</details>
 
 <details>
 <summary>🖼️ Saviez-vous que vos photos parlent ?</summary>
@@ -54,7 +65,7 @@ Des fréquences ultrasonores inaudibles peuvent être cachées dans la musique o
 <details>
 <summary>🚗 Saviez-vous que votre voiture est une machine à collecter des données ?</summary>
 
-Les voitures modernes sont les pires produits jamais évalués par Mozilla en matière de protection de la vie privée. Elles collectent une quantité massive de données personnelles : votre voix, votre localisation précise, vos habitudes de conduite, votre poids sur le siège, votre comportement avec votre téléphone, et même des données biométriques. La plupart des constructeurs se réservent le droit de vendre ces informations, de les partager avec des tiers, et même de les utiliser pour du marketing ciblé. Plus inquiétant encore : certains collectent des données sur votre orientation sexuelle, votre santé et votre génétique. Votre voiture en sait probablement plus sur vous que votre médecin !
+Les voitures modernes sont les pires produits jamais évalués par Mozilla en matière de protection de la vie privée. Elles collectent une quantité massive de données personnelles : votre voix, votre localisation précise, vos habitudes de conduite, votre poids sur le siège, votre comportement avec votre téléphone, et même des données biométriques. La plupart des constructeurs se réservent le droit de vendre ces informations, de les partager avec des tiers, et même de les utiliser pour du marketing ciblé.
 
 [Source](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/)
 

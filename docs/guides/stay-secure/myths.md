@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Démystifier les mythes
@@ -9,23 +9,30 @@ De nombreuses idées reçues circulent sur la protection de la vie privée en li
 ## Mythes généraux
 
 <details>
-<summary>🤔 Le mythe du «je n'ai rien à cacher»</summary>
+<summary>🤔 Mythe : «je n'ai rien à cacher»</summary>
 
-La protection de la vie privée n'est pas une question de dissimulation d'activités illégales. C'est une question de contrôle sur vos informations personnelles et de liberté de choix. Accepteriez-vous d'installer des caméras dans votre maison sous prétexte que vous ne faites rien d'illégal ? La vie privée protège votre autonomie, votre dignité et votre liberté d'être vous-même sans surveillance constante.
+La protection de la vie privée n'est pas une question de dissimulation d'activités illégales. C'est une question de contrôle sur vos informations personnelles et de liberté de choix. Accepteriez-vous de laisser faire installer des caméras dans votre maison sous prétexte que vous ne faites rien d'illégal ? La vie privée protège votre autonomie, votre dignité et votre liberté d'être vous-même sans surveillance constante.
 
 [Source](https://medium.com/@1kg/ive-got-nothing-to-hide-and-other-misunderstandings-of-privacy-b7ae8bf26603)
 
 </details>
 
 <details>
-<summary>🤖 Le mythe des «paramètres de confidentialité»</summary>
+<summary>🤖 Mythe : «paramètres de confidentialité»</summary>
 
 Les paramètres de confidentialité des réseaux sociaux ne protègent pas vos données de la plateforme elle-même. Ils contrôlent uniquement ce que les autres utilisateurs peuvent voir. La plateforme continue de collecter et d'analyser toutes vos interactions pour son propre usage.
 
 </details>
 
 <details>
-<summary>📄 Le mythe du «j'ai lu les conditions d'utilisation»</summary>
+<summary>💰 Mythe : «vente de données»</summary>
+
+On entend souvent que "les entreprises vendent nos données personnelles", mais la réalité est plus complexe et insidieuse. La plupart des grandes entreprises technologiques ne vendent pas directement vos données - elles les gardent précieusement pour elles-mêmes. Ce qu'elles vendent, c'est la possibilité de cibler des audiences très précises basées sur vos comportements, préférences et caractéristiques. C'est comme si elles créaient un portrait détaillé de chaque personne, non pas pour le vendre, mais pour louer l'accès à des groupes de personnes partageant certains traits. Les annonceurs ne voient jamais vos données directement, mais peuvent dire "je veux toucher les personnes qui correspondent à ce profil spécifique". C'est un modèle d'affaires encore plus rentable que la vente pure et simple de données.
+
+</details>
+
+<details>
+<summary>📄 Mythe : «j'ai lu les conditions d'utilisation»</summary>
 
 Même si vous lisez attentivement les conditions d'utilisation (ce que presque personne ne fait), elles peuvent changer à tout moment. De plus, elles ne couvrent souvent pas toutes les manières dont vos données peuvent être utilisées, partagées ou analysées. Le consentement donné aujourd'hui peut avoir des implications imprévues demain.
 
@@ -36,7 +43,7 @@ Même si vous lisez attentivement les conditions d'utilisation (ce que presque p
 ## Les VPN
 
 <details>
-<summary>🌐 Le mythe de «l'anonymat en ligne»</summary>
+<summary>🌐 Mythe: «l'anonymat en ligne»</summary>
 
 L'anonymat total en ligne est un mythe. Votre façon de taper, les sites que vous visitez, votre appareil, votre navigateur : tout cela crée une empreinte numérique unique. Même sans vous connecter, les sites peuvent souvent vous reconnaître grâce à ces «empreintes digitales» techniques.
 
@@ -45,7 +52,7 @@ L'anonymat total en ligne est un mythe. Votre façon de taper, les sites que vou
 </details>
 
 <details>
-<summary>Mythe : «Le chiffrement militaire me rend intraçable»</summary>
+<summary>🌐 Mythe : «Le chiffrement militaire me rend intraçable»</summary>
 
 - Le terme «chiffrement militaire» est du marketing : tous les VPNs utilisent les mêmes standards de chiffrement que votre navigation HTTPS habituelle
 - Le chiffrement protège vos données en transit, mais n'empêche pas le traçage par d'autres moyens
@@ -53,7 +60,7 @@ L'anonymat total en ligne est un mythe. Votre façon de taper, les sites que vou
 </details>
 
 <details>
-<summary>Mythe : «Mon VPN me protège sur le Wi-Fi public»</summary>
+<summary>🌐 Mythe : «Mon VPN me protège sur le Wi-Fi public»</summary>
 
 - La plupart des sites sensibles (banques, email) utilisent déjà HTTPS
 - Un VPN n'ajoute qu'une protection limitée sur un réseau non sécurisé
@@ -61,7 +68,7 @@ L'anonymat total en ligne est un mythe. Votre façon de taper, les sites que vou
 </details>
 
 <details>
-<summary>Mythe : «Un VPN gratuit est aussi bon qu'un VPN payant»</summary>
+<summary>🌐 Mythe : «Un VPN gratuit est aussi bon qu'un VPN payant»</summary>
 
 - Les VPNs gratuits doivent financer leur infrastructure d'une manière ou d'une autre
 - Beaucoup revendent vos données de navigation ou injectent leurs propres publicités
@@ -71,28 +78,28 @@ L'anonymat total en ligne est un mythe. Votre façon de taper, les sites que vou
 ## Naviguer sur Internet
 
 <details>
-<summary>🔒 Le mythe du «mode incognito»</summary>
+<summary>🔒 Mythe : «mode incognito»</summary>
 
-Le mode incognito de votre navigateur n'est pas un bouclier d'invisibilité. Il empêche simplement votre navigateur de sauvegarder localement votre historique et vos cookies. Votre fournisseur d'accès internet, votre employeur, et les sites web que vous visitez peuvent toujours voir votre activité. C'est comme porter un masque dans un magasin équipé de caméras : les autres clients ne vous reconnaissent pas, mais le propriétaire sait que vous êtes là.
+Le mode incognito de votre navigateur n'est pas un bouclier d'invisibilité. Il empêche simplement votre navigateur de sauvegarder localement votre historique et vos cookies. Votre fournisseur d'accès internet, votre employeur, et les sites web que vous visitez peuvent toujours voir votre activité.
 
 </details>
 
 <details>
-<summary>🔐 Le mythe du «HTTPS = sécurité totale»</summary>
+<summary>🔐 Mythe : «HTTPS = sécurité totale»</summary>
 
 Le cadenas HTTPS dans votre navigateur signifie que la connexion est chiffrée, mais pas que le site est légitime ou sûr. Un site malveillant peut parfaitement utiliser HTTPS. C'est comme avoir une conversation privée avec quelqu'un : le fait que personne ne puisse écouter ne garantit pas que votre interlocuteur est digne de confiance.
 
 </details>
 
 <details>
-<summary>📱 Le mythe du «j'ai désactivé la localisation»</summary>
+<summary>📱 Mythe : «j'ai désactivé la localisation»</summary>
 
 Désactiver le GPS ne suffit pas à masquer votre position. Les réseaux Wi-Fi environnants, les antennes cellulaires, votre adresse IP, et même la pression atmosphérique mesurée par votre téléphone peuvent révéler votre localisation. Les applications peuvent aussi accéder aux métadonnées de vos photos pour savoir où vous étiez.
 
 </details>
 
 <details>
-<summary>🗑️ Le mythe de la «suppression définitive»</summary>
+<summary>🗑️ Mythe : «suppression définitive»</summary>
 
 Supprimer un fichier ou un post sur les réseaux sociaux ne garantit pas sa disparition. Les données peuvent être sauvegardées, archivées, ou déjà partagées ailleurs. C'est comme essayer de reprendre une histoire que vous avez racontée : une fois partagée, elle échappe à votre contrôle.
 
