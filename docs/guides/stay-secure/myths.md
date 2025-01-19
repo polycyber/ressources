@@ -75,6 +75,38 @@ L'anonymat total en ligne est un mythe. Votre façon de taper, les sites que vou
 - Certains VPNs gratuits ont été pris en train d'installer des logiciels malveillants
 </details>
 
+## Les antivirus
+
+<details>
+<summary>💰 Mythe : L'antivirus payant est toujours plus efficace que la version gratuite</summary>
+
+La différence entre versions payantes et gratuites réside principalement dans les fonctionnalités additionnelles (pare-feu, gestionnaire de mots de passe, VPN) et non dans la protection de base contre les malwares. Certains antivirus gratuits comme Microsoft Defender offrent aujourd'hui une protection équivalente aux solutions premium.
+</details>
+
+<details>
+<summary>🔄 Mythe : Avoir plusieurs antivirus renforce la sécurité</summary>
+
+L'installation de plusieurs antivirus crée en réalité des conflits système, ralentit considérablement l'ordinateur et peut même réduire l'efficacité de la protection. Les antivirus peuvent se considérer mutuellement comme des menaces et entrer en conflit pour l'accès aux fichiers système.
+</details>
+
+<details>
+<summary>🛡️ Mythe : Un antivirus protège contre toutes les cybermenaces</summary>
+
+Les antivirus sont inefficaces contre de nombreuses menaces modernes comme l'ingénierie sociale, le phishing sophistiqué, les ransomwares zero-day ou les attaques via des documents Office légitimes mais malveillants. La sécurité nécessite une approche multicouche incluant la sensibilisation des utilisateurs.
+</details>
+
+<details>
+<summary>🔍 Mythe : Une analyse antivirus complète régulière est nécessaire</summary>
+
+La protection en temps réel des antivirus modernes est généralement suffisante. Les analyses complètes régulières sont surtout utiles après une infection suspectée ou la restauration d'anciennes sauvegardes. Elles consomment beaucoup de ressources système pour un bénéfice limité en usage quotidien.
+</details>
+
+<details>
+<summary>🎮 Mythe : L'antivirus ralentit significativement les jeux et les applications</summary>
+
+Les antivirus modernes sont optimisés et incluent souvent un "mode jeu" qui suspend temporairement certaines fonctionnalités non critiques. L'impact sur les performances est généralement minime avec les solutions récentes, sauf lors des analyses complètes.
+</details>
+
 ## Naviguer sur Internet
 
 <details>

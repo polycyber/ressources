@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Technologies
+# Innover et protéger
 
 Les technologies de protection de la vie privée représentent une nouvelle frontière dans la sécurisation de nos données personnelles. Alors que la collecte massive de données devient la norme, ces innovations permettent de préserver l'utilité des services numériques tout en protégeant notre vie privée. De la confidentialité différentielle au chiffrement homomorphique, ces technologies sont déjà en train de transformer notre rapport aux données.
 

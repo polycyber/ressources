@@ -2,9 +2,11 @@
 sidebar_position: 4
 ---
 
-# Premières actions
+# Protéger sa vie numérique
 
-La protection de sa vie privée en ligne commence par quelques gestes essentiels. Sans être un expert en cybersécurité, chacun peut prendre des mesures simples mais efficaces pour mieux contrôler ses données personnelles et réduire les risques. Voici les bases par lesquelles commencer.
+La protection de sa vie privée en ligne commence par quelques gestes essentiels. Sans être un expert en cybersécurité, chacun peut prendre des mesures simples mais efficaces pour mieux contrôler ses données personnelles et réduire les risques. 
+
+Voici les bases par lesquelles commencer ainsi que des ressources pour en apprendre davantage.
 
 ## Les bases essentielles
 
@@ -49,6 +51,18 @@ Les liens suspects sont la porte d'entrée de nombreuses attaques. Un courriel u
 Le gel de votre dossier de crédit offre une protection supplémentaire contre l'usurpation d'identité. En gelant l'accès à votre dossier, vous empêchez les fraudeurs d'ouvrir des comptes en votre nom, même s'ils ont vos informations personnelles.
 
 [Geler son dossier de crédit pour contrer le vol d’identité - Magazine Protégez-Vous](https://www.protegez-vous.ca/nouvelles/affaires-et-societe/geler-son-dossier-de-credit-pour-contrer-le-vol-d-identite)
+
+### 🦠 Dépasser les antivirus : vers une meilleure sécurité numérique
+
+Les antivirus traditionnels fonctionnent principalement sur un modèle de détection basé sur des signatures de logiciels malveillants connus, ce qui les rend inefficaces face aux nouvelles menaces et aux attaques sophistiquées. De plus, ils créent souvent un faux sentiment de sécurité qui peut conduire les utilisateurs à adopter des comportements plus risqués, pensant être totalement protégés. Les antivirus consomment également des ressources système importantes et peuvent parfois entrer en conflit avec d'autres applications légitimes, réduisant ainsi les performances globales de l'ordinateur.
+
+Une approche plus efficace de la sécurité numérique repose sur une combinaison de bonnes pratiques : maintenir ses systèmes et logiciels à jour, utiliser des mots de passe forts et uniques avec un gestionnaire de mots de passe, activer l'authentification à deux facteurs, sauvegarder régulièrement ses données, et développer un esprit critique face aux courriels et aux téléchargements suspects. Cette approche proactive et holistique de la sécurité est plus adaptée au paysage actuel des menaces numériques, où les attaques par ingénierie sociale et les vulnérabilités zero-day sont devenues prédominantes.
+
+:::tip
+
+[VirusTotal](https://www.virustotal.com) est un service web gratuit qui analyse fichiers et URLs suspects en les soumettant simultanément à plus de 70 moteurs antivirus. Son principal avantage réside dans l'agrégation des résultats de multiples antivirus, offrant ainsi une vue d'ensemble plus fiable qu'un seul antivirus. Il propose également des analyses détaillées du comportement des fichiers et des métadonnées associées. Prenez garde simplement de ne pas y téléverser de fichiers personnels!
+
+:::
 
 ### 👁️ Limiter le traçage en ligne
 

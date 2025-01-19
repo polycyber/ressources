@@ -2,9 +2,11 @@
 sidebar_position: 3
 ---
 
-# Le saviez-vous?
+# Découvrir les secrets du profilage
 
 Le numérique regorge de capacités insoupçonnées pour collecter et analyser nos données. Découvrez des faits surprenants sur la façon dont nos appareils et applications peuvent révéler des aspects inattendus de notre vie privée.
+
+## Saviez-vous ?
 
 <details>
 <summary>🔍 Saviez-vous que vos recherches dressent votre portrait psychologique ?</summary>

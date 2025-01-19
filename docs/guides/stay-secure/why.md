@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Pourquoi se soucier de sa vie privée ?
+# Se soucier de sa sécurité numérique ?
 
 Ce guide aborde ensemble la vie privée et la sécurité numérique, car ces deux aspects sont étroitement liés dans nos usages quotidiens. Sans entrer dans des détails techniques complexes, nous voulons vous faire prendre conscience des enjeux et vous donner les bases nécessaires pour mieux protéger vos données personnelles. Que vous soyez débutant ou déjà sensibilisé à ces questions, vous trouverez ici des informations pratiques pour comprendre les risques et commencer à agir.
 
