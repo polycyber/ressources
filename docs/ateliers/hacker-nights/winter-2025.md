@@ -2,7 +2,9 @@
 sidebar_position: 3
 ---
 
-# Hacker Nights
+# Hiver 2025
+
+Les exercices proposés sont listés ci-dessous.
 
 <details>
 <summary>HN: Séance 11 - Challenges</summary>
