@@ -57,6 +57,9 @@ L'anonymat total en ligne est un mythe. Votre façon de taper, les sites que vou
 - Le terme «chiffrement militaire» est du marketing : tous les VPNs utilisent les mêmes standards de chiffrement que votre navigation HTTPS habituelle
 - Le chiffrement protège vos données en transit, mais n'empêche pas le traçage par d'autres moyens
 - Les sites web peuvent toujours vous identifier par de nombreuses autres méthodes
+
+[Source](https://www.makeuseof.com/vpn-providers-military-grade-encryption/)
+
 </details>
 
 <details>
@@ -65,6 +68,9 @@ L'anonymat total en ligne est un mythe. Votre façon de taper, les sites que vou
 - La plupart des sites sensibles (banques, email) utilisent déjà HTTPS
 - Un VPN n'ajoute qu'une protection limitée sur un réseau non sécurisé
 - Les attaques modernes ciblent plutôt le phishing que l'interception de trafic
+
+[Source](https://www.privacyguides.org/en/basics/vpn-overview/)
+
 </details>
 
 <details>
@@ -73,6 +79,24 @@ L'anonymat total en ligne est un mythe. Votre façon de taper, les sites que vou
 - Les VPNs gratuits doivent financer leur infrastructure d'une manière ou d'une autre
 - Beaucoup revendent vos données de navigation ou injectent leurs propres publicités
 - Certains VPNs gratuits ont été pris en train d'installer des logiciels malveillants
+
+[Source](https://www.techradar.com/vpn/google-warns-of-legit-vpn-apps-being-used-to-infect-devices-with-malware)
+
+</details>
+
+<details>
+<summary>🔐 Mythe : Un VPN suffit à sécuriser sa navigation web</summary>
+
+Bien que le VPN chiffre le trafic, il ne bloque pas forcément nativement les domaines malveillants ou de tracking. Un DNS filtrant (comme NextDNS) offre une protection plus ciblée en bloquant directement l'accès aux domaines d'analytics, de maliciels et de publicités. 
+
+:::tip
+
+Cette solution est plus légère, souvent gratuite et n'impacte pas les performances de navigation.
+
+:::
+
+[Source](https://www.privacyguides.org/en/dns/)
+
 </details>
 
 ## Les antivirus
@@ -80,31 +104,37 @@ L'anonymat total en ligne est un mythe. Votre façon de taper, les sites que vou
 <details>
 <summary>💰 Mythe : L'antivirus payant est toujours plus efficace que la version gratuite</summary>
 
-La différence entre versions payantes et gratuites réside principalement dans les fonctionnalités additionnelles (pare-feu, gestionnaire de mots de passe, VPN) et non dans la protection de base contre les malwares. Certains antivirus gratuits comme Microsoft Defender offrent aujourd'hui une protection équivalente aux solutions premium.
+La différence entre versions payantes et gratuites réside principalement dans les fonctionnalités additionnelles (pare-feu, gestionnaire de mots de passe, VPN) et non dans la protection de base contre les maliciels. Certains antivirus gratuits comme Microsoft Defender offrent aujourd'hui une protection équivalente aux solutions premium.
+
+
 </details>
 
 <details>
 <summary>🔄 Mythe : Avoir plusieurs antivirus renforce la sécurité</summary>
 
 L'installation de plusieurs antivirus crée en réalité des conflits système, ralentit considérablement l'ordinateur et peut même réduire l'efficacité de la protection. Les antivirus peuvent se considérer mutuellement comme des menaces et entrer en conflit pour l'accès aux fichiers système.
+
 </details>
 
 <details>
 <summary>🛡️ Mythe : Un antivirus protège contre toutes les cybermenaces</summary>
 
 Les antivirus sont inefficaces contre de nombreuses menaces modernes comme l'ingénierie sociale, le phishing sophistiqué, les ransomwares zero-day ou les attaques via des documents Office légitimes mais malveillants. La sécurité nécessite une approche multicouche incluant la sensibilisation des utilisateurs.
+
 </details>
 
 <details>
 <summary>🔍 Mythe : Une analyse antivirus complète régulière est nécessaire</summary>
 
 La protection en temps réel des antivirus modernes est généralement suffisante. Les analyses complètes régulières sont surtout utiles après une infection suspectée ou la restauration d'anciennes sauvegardes. Elles consomment beaucoup de ressources système pour un bénéfice limité en usage quotidien.
+
 </details>
 
 <details>
 <summary>🎮 Mythe : L'antivirus ralentit significativement les jeux et les applications</summary>
 
 Les antivirus modernes sont optimisés et incluent souvent un "mode jeu" qui suspend temporairement certaines fonctionnalités non critiques. L'impact sur les performances est généralement minime avec les solutions récentes, sauf lors des analyses complètes.
+
 </details>
 
 ## Naviguer sur Internet
