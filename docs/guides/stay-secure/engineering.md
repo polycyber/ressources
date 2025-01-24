@@ -42,3 +42,10 @@ Ces technologies de protection de la vie privée sont déjà présentes autour d
 - Suggestions de contenu calculées localement
 - Suppression de données sur demande
 - Statistiques d'utilisation anonymisées
+
+## Pour aller plus loin
+
+* [OpenMined](https://openmined.org)
+* [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
+* [OIPC – Privacy by Design Resources](https://iapp.org/resources/article/oipc-privacy-by-design-resources/)
+* [Parfait: Enabling private AI with research tools - Google Research](https://research.google/blog/parfait-enabling-private-ai-with-research-tools/)

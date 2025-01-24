@@ -187,11 +187,6 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-    announcementBar: {
-      content: 'Ce site web évolue encore. Vous pouvez y contribuer sur Github!',
-      backgroundColor: '#ffb72c',
-      isCloseable: true,
-    },
   } satisfies Preset.ThemeConfig,
 };
 

@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/polycyber.png').default,
     description: (
       <>
-        Chaque semaine, nos membres se réunissent pour résoudre des défis et échanger leurs connaissances.
+        Chaque semaine, nous nous réunissons pour résoudre des défis et échanger leurs connaissances.
       </>
     ),
   },
@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/polycyber.png').default,
     description: (
       <>
-        Régulièrement, notre équipe CTF participe à des compétitions CTF.
+        Régulièrement, notre équipe participe à des compétitions <em>capture the flag</em>.
       </>
     ),
   },
