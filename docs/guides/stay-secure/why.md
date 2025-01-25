@@ -19,7 +19,7 @@ Chaque jour, les entreprises collectent et analysent nos activités en ligne pou
 
 ## 📱 Impact sur votre vie quotidienne
 
-Cette surveillance constante a des conséquences bien réelles :
+Cette surveillance constante a des conséquences bien réelles, par exemple :
 
 - Les recruteurs examinent systématiquement votre présence en ligne avant une embauche
 - Les assureurs peuvent utiliser vos données pour ajuster leurs tarifs
@@ -31,9 +31,9 @@ Cette surveillance constante a des conséquences bien réelles :
 
 L'exploitation massive des données personnelles affecte aussi notre démocratie. Le scandale Cambridge Analytica a révélé comment les données de millions d'utilisateurs Facebook ont été exploitées pour manipuler des élections via du micro-ciblage politique. En analysant les profils psychologiques des électeurs, ces techniques permettent de diffuser des messages personnalisés pour influencer les opinions et les votes, menaçant ainsi l'intégrité du débat démocratique. [Source](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)
 
-## Les brèches de données
+## ⛓️‍💥 Les brèches de données
 
-Les cybercriminels utilisent ces bases de données de fuites pour :
+Les cybercriminels utilisent ces bases de données de fuites notamment pour :
 
 - Tenter de se connecter à vos autres comptes
 - Monter des attaques ciblées de phishing

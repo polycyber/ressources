@@ -10,7 +10,7 @@ La protection de sa vie privée en ligne commence par quelques gestes essentiels
 
 ### 🎯 Évaluer ses risques personnels
 
-Le «threat modeling» consiste à identifier vos risques spécifiques pour mieux vous protéger. Posez-vous ces questions :
+Le *threat modeling* consiste à identifier vos risques spécifiques pour mieux vous protéger. Posez-vous ces questions :
 
 - **Quelles sont mes données sensibles ?** - Informations personnelles, financières, professionnelles, historique de navigation et communications privées.
 - **Qui pourrait vouloir y accéder et pourquoi ?** - Cybercriminels, entreprises de tracking, gouvernements ou personnes malveillantes de votre entourage, chacun avec des motivations différentes.
@@ -32,9 +32,17 @@ Les gestionnaires de mots de passe intégrés aux navigateurs présentent des ri
 
 :::
 
+<details>
+
+<summary>Guides détaillés sur les mots de passe</summary>
+
+[Gérer ses mots de passe - Gouvernement du Québec](https://www.quebec.ca/securite-situations-urgence/cybersecurite/conseils-cybersecurite/mots-passe)
+
 [Password Overview (PrivacyGuides.io)](https://www.privacyguides.org/en/basics/passwords-overview/)
 
 [Password Managers (PrivacyGuides.io)](https://www.privacyguides.org/en/passwords/)
+
+</details>
 
 #### Authentification à multiples facteurs
 
@@ -82,9 +90,15 @@ Une approche plus efficace de la sécurité numérique repose sur une combinaiso
 
 :::
 
-#### L'accès physique aux ordinateurs
+#### L'accès physique à un ordinateur
 
-La sécurisation d'un ordinateur Windows passe par deux étapes fondamentales souvent négligées. Premièrement, il est crucial de définir un mot de passe BIOS/UEFI solide. Sans cette protection, un attaquant ayant un accès physique à votre machine pourrait facilement démarrer l'ordinateur depuis un support externe ou modifier des paramètres critiques du système. Pour activer cette protection, il faut accéder aux paramètres du BIOS au démarrage (souvent via F2, F10 ou Suppr, selon votre matériel) et configurer un mot de passe superviseur.
+La sécurisation d'un ordinateur Windows ou Linux passe par deux étapes fondamentales souvent négligées. Premièrement, il est crucial de définir un mot de passe BIOS/UEFI solide. Pour activer cette protection, il faut accéder aux paramètres du BIOS au démarrage (souvent via F2, F10 ou Suppr, selon votre matériel) et configurer un mot de passe superviseur.
+
+:::info
+
+Sans cette protection, un attaquant ayant un accès physique à votre machine pourrait facilement démarrer l'ordinateur depuis un support externe ou modifier des paramètres critiques du système.
+
+:::
 
 La deuxième étape essentielle consiste à chiffrer votre disque dur avec BitLocker (disponible sur Windows Pro) ou VeraCrypt (alternative gratuite et open source). Le chiffrement transforme toutes vos données en un format illisible sans la clé de déchiffrement, protégeant ainsi vos informations même si votre disque dur est physiquement volé. Sur Windows, BitLocker s'active facilement depuis les paramètres système et utilise idéalement une puce TPM pour stocker les clés de chiffrement de manière sécurisée.
 
@@ -102,16 +116,18 @@ Les trackers publicitaires vous suivent partout sur internet, construisant un pr
 
 Votre moteur de recherche est aussi une source majeure de profilage. Contrairement à Google qui enregistre et analyse toutes vos recherches, des alternatives comme DuckDuckGo, Startpage ou Qwant ne conservent pas votre historique de recherche et ne créent pas de profil publicitaire. Ces moteurs de recherche offrent des résultats pertinents tout en respectant votre vie privée.
 
-## Que faire si vos données ont fuité ?
+## 📉 Que faire si vos données ont fuité ou si on est victime de fraude ?
+
+- Contacter le DPO (Délégué à la Protection des Données) en consultant la politique de confidentialité du service concerné
+- Contacter l'agence gouvernementale de votre région qui s'occupe de la supervision de la protection des données personnelles pour l'organisme concerné
+- [Fraude-Alerte.ca](https://fraude-alerte.ca) est le premier site communautaire au Canada qui permet de référencer les fraudes rencontrées sur Internet. Plus de 10000 y sont actuellement recensées ! Le site permet de s'informer ou de se faire aider si l'on est victime d'une fraude.
+- [Aide-mémoire de la Clinique de cyber-criminologie](https://www.clinique-cybercriminologie.ca/aide-memoire) affiliée à l'Université de Montréal. Il est possible de les contacter pour recevoir du support.
 
 :::tip
 
 [HaveIBeenPwned](https://haveibeenpwned.com) est un service gratuit qui vous permet de vérifier si vos informations personnelles ont été compromises dans des fuites de données. Le site collecte et indexe les données de brèches de sécurité publiquement connues, permettant à chacun de vérifier si son email ou son mot de passe a été exposé.
 
 :::
-
-- Contacter le DPO (Délégué à la Protection des Données) en consultant la politique de confidentialité du service concerné
-- Contacter l'agence gouvernementale de votre région qui s'occupe de la supervision de la protection des données personnelles pour l'organisme concerné
 
 ## Pour aller plus loin
 

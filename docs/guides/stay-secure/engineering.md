@@ -45,7 +45,13 @@ Ces technologies de protection de la vie privée sont déjà présentes autour d
 
 ## Pour aller plus loin
 
+<details>
+
+<summary>Ce volet propose quelques ressources pour guider la mise en place de la protection des données personnelles.</summary>
+
 * [OpenMined](https://openmined.org)
 * [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
 * [OIPC – Privacy by Design Resources](https://iapp.org/resources/article/oipc-privacy-by-design-resources/)
 * [Parfait: Enabling private AI with research tools - Google Research](https://research.google/blog/parfait-enabling-private-ai-with-research-tools/)
+
+</details>
