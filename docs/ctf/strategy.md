@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Stratégie
+# Stratégies
 
 La réussite en CTF d'équipe repose sur une bonne organisation et une communication efficace. Voici une approche structurée pour optimiser la collaboration.
 

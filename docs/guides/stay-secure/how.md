@@ -68,9 +68,21 @@ Cette vigilance doit s'étendre aux services web que vous utilisez. Les réseaux
 
 ### 🛡️ Se protéger des arnaques
 
-#### Vigilance
+#### Hammeçonnage
 
 Les liens suspects sont la porte d'entrée de nombreuses attaques. Un courriel urgent d'une banque, un message d'un ami qui semble étrange, un texto vous informant d'un colis : prenez l'habitude de vérifier l'expéditeur et l'URL avant de cliquer. En cas de doute, accédez directement au site concerné sans passer par le lien.
+
+**Attaques par QR Code (QR Phishing)**: Les codes QR sont devenus omniprésents, notamment depuis la pandémie. Les attaquants exploitent cette tendance en plaçant des codes QR malveillants dans des lieux publics ou en les envoyant par courriel. Ces codes peuvent rediriger vers des sites de phishing, déclencher des téléchargements malveillants ou initier des paiements frauduleux. Avant de scanner un QR code, vérifiez son contexte et son origine. Sur un restaurant ou un menu, il devrait correspondre à l'établissement. Méfiez-vous particulièrement des codes placés sur des affiches dans la rue ou les transports publics.
+
+**Voice Phishing (Vishing)**: Le vishing utilise les appels téléphoniques pour manipuler les victimes. Les attaquants se font passer pour des banques, services gouvernementaux ou support technique, créant un sentiment d'urgence pour obtenir des informations sensibles ou de l'argent. Une règle d'or : aucune institution légitime ne demandera des informations sensibles par téléphone. En cas de doute, raccrochez et contactez l'organisation directement via son numéro officiel.
+
+**SMS Phishing (Smishing)**: Le smishing combine SMS et phishing. Les attaquants envoient des messages se faisant passer pour des services de livraison, banques ou institutions gouvernementales. Ces SMS contiennent souvent des liens courts ou masqués pour contourner la méfiance. Ils exploitent des sujets d'actualité (Covid, impôts) ou des situations courantes (colis en attente, paiement refusé) pour créer l'urgence. Les messages peuvent sembler provenir de numéros légitimes grâce au spoofing. Ne cliquez jamais sur les liens dans les SMS inattendus, même s'ils semblent urgents. Contactez directement l'organisation concernée via ses canaux officiels.
+
+:::info
+
+Ces techniques s'appuient sur l'ingénierie sociale et exploitent souvent l'urgence ou la curiosité. La meilleure défense reste la vigilance et la vérification systématique des sources.
+
+:::
 
 #### Gel du dossier de crédit
 
@@ -102,9 +114,15 @@ Sans cette protection, un attaquant ayant un accès physique à votre machine po
 
 La deuxième étape essentielle consiste à chiffrer votre disque dur avec BitLocker (disponible sur Windows Pro) ou VeraCrypt (alternative gratuite et open source). Le chiffrement transforme toutes vos données en un format illisible sans la clé de déchiffrement, protégeant ainsi vos informations même si votre disque dur est physiquement volé. Sur Windows, BitLocker s'active facilement depuis les paramètres système et utilise idéalement une puce TPM pour stocker les clés de chiffrement de manière sécurisée.
 
-Cette double protection - mot de passe BIOS et chiffrement du disque - forme un bouclier robuste contre les accès physiques non autorisés à vos données. Sur Mac, ces protections sont déjà intégrées par défaut via FileVault et la sécurité native du système.
+Cette double protection, mot de passe BIOS et chiffrement du disque, forme un bouclier robuste contre les accès physiques non autorisés à vos données. Sur Mac, ces protections sont déjà intégrées par défaut via FileVault et la sécurité native du système.
 
 ### 👁️ Limiter le traçage en ligne
+
+#### Malvertising
+
+Les moteurs de recherche affichent souvent des liens sponsorisés trompeurs vers des sites de téléchargement malveillants. Ces sites imitent les pages officielles mais distribuent des versions modifiées contenant des logiciels malveillants, des barres d'outils indésirables ou des rançongiciels. 
+
+Pour télécharger en toute sécurité, il faut se rendre directement sur le site officiel de l'éditeur, utiliser les magasins d'applications intégrés comme le Microsoft Store ou l'App Store, ou privilégier les gestionnaires de paquets comme Chocolatey (Windows), Homebrew (macOS) et apt/dnf (Linux) qui vérifient l'intégrité des logiciels.
 
 #### Les navigateurs Web
 
