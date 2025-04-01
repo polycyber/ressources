@@ -7,6 +7,7 @@ type FeatureItem = {
   title: string;
   Svg: React.ComponentType<React.ComponentProps<'img'>>;
   description: JSX.Element;
+  url: string;
 };
 
 const FeatureList: FeatureItem[] = [
@@ -18,6 +19,7 @@ const FeatureList: FeatureItem[] = [
         Chaque semaine, nous nous réunissons pour résoudre des défis et échanger leurs connaissances.
       </>
     ),
+    url: "https://ressources.polycyber.io/docs/ateliers/hacker-nights/",
   },
   {
     title: 'PolyPwn CTF 2025',
@@ -27,6 +29,7 @@ const FeatureList: FeatureItem[] = [
         PolyCyber organise son CTF annuel en mars 2025. Plus de 200 participants sont attendus.
       </>
     ),
+    url: "https://pwn.polycyber.io/",
   },
   {
     title: 'Participation CTF',
@@ -36,21 +39,26 @@ const FeatureList: FeatureItem[] = [
         Régulièrement, notre équipe participe à des compétitions <em>capture the flag</em>.
       </>
     ),
+    url: "https://ressources.polycyber.io/blog",
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({ title, Svg, description, url }: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <img className={styles.featureSvg} src={Svg} role='img'></img></div>
+    <a href={url} className={styles.featureLink} target="_blank" rel="noopener noreferrer">
+    <div className="text--center">
+        <img className={styles.featureSvg} src={Svg} role='img'></img>
+      </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
       </div>
+      </a>
     </div>
   );
 }
+
 
 export default function HomepageFeatures(): JSX.Element {
   return (

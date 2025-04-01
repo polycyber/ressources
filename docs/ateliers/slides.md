@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Diapositives
 
+Tout nos atelier sont accessibles sur [notre repo GitHub dédié](https://github.com/polycyber/workshops/tree/main).
+
 Le contenu que nous avons présenté lors de nos séances est présenté ici. 
 
 | Nom de l'atelier | Description | Diapositives |
@@ -20,6 +22,8 @@ Le contenu que nous avons présenté lors de nos séances est présenté ici.
 | Investigation Numérique Réseau | Introduction à l'analyse forensique réseau | [forensics_reseau.pdf](https://github.com/polycyber/workshops/blob/main/forensics_reseau.pdf) |
 | Injection dans les APK Android | Techniques pour analyser et modifier les applications Android | [injection_dans_un_apk_android.pdf](https://github.com/polycyber/workshops/blob/main/injection_dans_un_apk_android.pdf) |
 | Introduction au Reverse Engineering | Introduction aux concepts et outils de rétro-ingénierie logicielle | [intro_au_reverse_engineering.pdf](https://github.com/polycyber/workshops/blob/main/intro_au_reverse_engineering.pdf) |
+| Introduction au Pwn | Introduction aux concepts d'exploitation de vulnérabilités de fichier exécutable | [Binary_Exploit.pdf](https://github.com/polycyber/workshops/blob/main/Intro_to_pwn/Binary_Exploit.pdf) |
+| Certifications: How to Get into Cybersecurity 101 | Présentations des certifications en cybersécurité et conseils pour démarrer sa carrière dans le domaine | [Présentations PPT - SQc.pdf](https://github.com/polycyber/workshops/blob/main/Pr%C3%A9sentations%20PPT%20-%20SQc.pdf) |
 
 :::info
 
